@@ -1,1 +1,2 @@
-# springboot-config
+# sample-config
+Spring Cloud External Configuration Repository
